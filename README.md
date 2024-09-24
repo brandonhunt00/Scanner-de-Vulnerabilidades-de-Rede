@@ -45,4 +45,4 @@ Hosts e Portas: Você pode modificar o script network_scan.py para alterar a fai
 ## Contribuições
 Contribuições para o projeto são bem-vindas.
 
-Este README serve como um guia completo para alguém que queira usar ou contribuir para o seu projeto de scanner de rede.
+Este README serve como um guia completo para alguém que queira usar ou contribuir para meu projeto de scanner de rede.
