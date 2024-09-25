@@ -37,6 +37,7 @@ O print acima mostra o código em python clonado em um arquivo .py no terminal d
 Quando executamos o código, recebemos a seguinte resposta:
 ![script rodando](https://github.com/user-attachments/assets/f4f3858f-907f-4d55-a050-3cd23e309c1d)
 ![resultado portas](https://github.com/user-attachments/assets/c3e7f471-fda8-4f9f-98f0-0d687cb406f7)
+![print readme](https://github.com/user-attachments/assets/9590f41a-80e5-45e3-bf7a-c9e0c5d5eba7)
 Após a execução do scanner, percebemos que não existe nenhuma porta aberta.  
 
 ## Configurações
